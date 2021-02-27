@@ -1,7 +1,3 @@
-def print_hi(name):
-    print("Hello Evan")
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+for i in range(10):
+    i += 1
+    print(i)
